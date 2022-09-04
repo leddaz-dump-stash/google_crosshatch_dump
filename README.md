@@ -1,0 +1,14 @@
+# crosshatch-user 12 SP1A.210812.016.C2 8618562 release-keys
+- manufacturer: 
+- platform: sdm845
+- codename: crosshatch
+- flavor: crosshatch-user
+- release: 12
+- id: SP1A.210812.016.C2
+- incremental: 8618562
+- tags: release-keys
+- fingerprint: google/crosshatch/crosshatch:12/SP1A.210812.016.C2/8618562:user/release-keys
+- is_ab: true
+- brand: google
+- branch: crosshatch-user-12-SP1A.210812.016.C2-8618562-release-keys
+- repo: google_crosshatch_dump
